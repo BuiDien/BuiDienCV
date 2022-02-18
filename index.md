@@ -1,31 +1,25 @@
 ## Bui Trung Dien
 _Software engineer based in Dong Nai, Viet Nam_ <br>
 [Email](mailto:buitrungdien1406@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dien-bui-a90571119/) / [GitHub](https://github.com/BuiDien) 
-You can use the [editor on GitHub](https://github.com/BuiDien/BuiDiencv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 👩🏼‍🎓 Education
 ```markdown
-Syntax highlighted code block
+**University of Information Technology**
+[UIT] (https://www.uit.edu.vn/) - Ho Chi Minh City, Viet Name _(2016-2021)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Write Professional Emails in English** 
+[Certificate] (https://coursera.org/share/b19c58177ddc5dd385d135800478e8c3)
+**What is Data Science?** 
+[Certificate] (https://coursera.org/share/5ed6061d77e03e0f6199923208d2602d)
+**Foundations: Data, Data, Everywhere** 
+[Certificate] (https://coursera.org/share/cf295902df6d41938eea80d7f5f92916)
+**Programming for Everybody** 
+[Certificate] (https://coursera.org/share/b9c29363b18177f5dfe86cf42061ecd7) 
+```
+## 👩🏼‍💻 Experience
+```markdown
+** Software Engineer **  @[Stellife](https://www.stel.life/) _(Aug 2021 - Present)
+Remote Patient Monitoring, Home Vitals Hub, Cellular, Bluetooth, Telehealth, Connected Care, and digital health.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
