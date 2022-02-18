@@ -9,10 +9,13 @@ _Software engineer based in Dong Nai, Viet Nam_ <br>
 
 **Write Professional Emails in English** <br>
 [Certificate](https://coursera.org/share/b19c58177ddc5dd385d135800478e8c3)
+
 **What is Data Science?** <br>
 [Certificate](https://coursera.org/share/5ed6061d77e03e0f6199923208d2602d)
+
 **Foundations: Data, Data, Everywhere** <br>
 [Certificate](https://coursera.org/share/cf295902df6d41938eea80d7f5f92916)
+
 **Programming for Everybody** <br>
 [Certificate](https://coursera.org/share/b9c29363b18177f5dfe86cf42061ecd7) 
 
