@@ -5,7 +5,7 @@ _Software engineer based in Dong Nai, Viet Nam_ <br>
 ## 👩🏼‍🎓 Education
 
 **University of Information Technology** <br>
-[UIT](https://www.uit.edu.vn/) - Ho Chi Minh City, Viet Name _(2016-2021)
+[UIT](https://www.uit.edu.vn/) - Ho Chi Minh City, Viet Name _(2016-2021)_
 
 **Write Professional Emails in English** <br>
 [Certificate](https://coursera.org/share/b19c58177ddc5dd385d135800478e8c3)
